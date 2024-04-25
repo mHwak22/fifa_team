@@ -1,0 +1,14 @@
+.border_overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border: 1px solid;
+  pointer-events: none; /* Allow clicks to pass through */
+  border-radius: 4px; /* Adjust border radius to match select */
+  width: 220px;
+  height: 31px;
+  margin-top: 9.9rem;
+  margin-left: 2.2rem;
+}
